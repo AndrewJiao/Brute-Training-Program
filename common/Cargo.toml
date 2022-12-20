@@ -8,6 +8,8 @@ edition = "2021"
 [dependencies]
 syn = "1.0"
 quote = "1.0"
+http = "0.2.8"
+futures = "0.3.25"
 [lib]
 proc-macro = true
 
